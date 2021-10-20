@@ -1,0 +1,20 @@
+E:\Studying\Computer_Graphics\Lr2\Lr2\bin\Debug\Lr2.exe.config
+E:\Studying\Computer_Graphics\Lr2\Lr2\bin\Debug\Lr2.exe
+E:\Studying\Computer_Graphics\Lr2\Lr2\bin\Debug\Lr2.pdb
+E:\Studying\Computer_Graphics\Lr2\Lr2\obj\Debug\Lr2.csprojAssemblyReference.cache
+E:\Studying\Computer_Graphics\Lr2\Lr2\obj\Debug\Lr2.Form1.resources
+E:\Studying\Computer_Graphics\Lr2\Lr2\obj\Debug\Lr2.Properties.Resources.resources
+E:\Studying\Computer_Graphics\Lr2\Lr2\obj\Debug\Lr2.csproj.GenerateResource.cache
+E:\Studying\Computer_Graphics\Lr2\Lr2\obj\Debug\Lr2.csproj.CoreCompileInputs.cache
+E:\Studying\Computer_Graphics\Lr2\Lr2\obj\Debug\Lr2.exe
+E:\Studying\Computer_Graphics\Lr2\Lr2\obj\Debug\Lr2.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\bin\Debug\Lr2.exe.config
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\bin\Debug\Lr2.exe
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\bin\Debug\Lr2.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\obj\Debug\Lr2.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\obj\Debug\Lr2.Form1.resources
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\obj\Debug\Lr2.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\obj\Debug\Lr2.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\obj\Debug\Lr2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\obj\Debug\Lr2.exe
+C:\Users\Admin\OneDrive\Рабочий стол\ДИИТ\2 курс\КГ\Lr2\Lr2\obj\Debug\Lr2.pdb
